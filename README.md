@@ -23,4 +23,4 @@
 - Recognize opportunities for improvements & impacts
 - Have a growth mindset
 
-📫 **Reach me at :mailbox_closed: mhilal.official@gmail.com
+📫 **Reach me at :** mailbox_closed: mhilal.official@gmail.com
