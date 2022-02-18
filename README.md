@@ -4,18 +4,17 @@ Practicing software design patterns as per application need for better software 
 Usage of appropriate web frameworks for developing applications better and faster.
 
 🌱 **I have good command over the following Technologies :**
-- Intense knowledge of Node.js, PHP, MySQL
-- Working with HTML, JavaScript, jQuery, and CSS
-- Strong knowledge of MVC frameworks (Laravel, CodeIgniter )
-- Excellent knowledge of OOP, MVC, and ORM concepts i.e. Sequelize, Eloquent
-- Usage of S.O.L.I.D. principles
-- Deep knowledge of Design Patterns (i.e. Singleton Design Pattern, Repository Design Pattern).
-- Working in a Unix/Linux environment
-- Usage of version-control (GIT)
-- Using dockerized environment that helped organize development and quality of Software
-- Estimates & Assign User stories
-- Code Review, fix Bugs
--Working with AWS tools EC2, RBS, and S3.
+
+- **Languages:** PHP,  Javascript 
+- **Databases:** MySQL, Redis
+- **Version control:** Git
+- **Testing:** PHPUnit 
+- **Frameworks:** Node js, Laravel / Lumen, Codeigniter
+- **Design Patterns:** MVC, Microservices architecture, Repository Design Pattern, Singleton Design Pattern
+- **Caching:** Redis, Memcached
+- **AWS tools:** EC2, RBS, and S3
+- **Message brokers / Event Brokers:** RabbitMQ
+- **Search/Analytics Engine :** ElasticSearch
 
 👀 **The habits are:**
 - Understand the scope and the problem first before coding
