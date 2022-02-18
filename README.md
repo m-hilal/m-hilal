@@ -1,4 +1,7 @@
-👋 Hi, I’m @m-hilal and I am a Software Engineer having 6 years of experience in the IT industry. I have been achieving my goals throughout my journey of work. It is my strong aim as a software engineer to acquire my targets for the betterment of my career. I have the potential to grab the new skill sets and the latest technology which facilitates me in grooming my skills.
+👋 Hi, I’m @m-hilal and I am a Software Engineer with experience in working on all phases of Software development with agile methodology.
+Focusing on delivering the best software with the adoption of all software development industry standards.
+Practicing software design patterns as per application need for better software readability.
+Usage of appropriate web frameworks for developing applications better and faster.
 
 🌱 **I have good command over the following Technologies :**
 - Intense knowledge of Node.js, PHP, MySQL
