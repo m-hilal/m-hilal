@@ -18,9 +18,9 @@
 - Understand the scope and the problem first before coding
 - Document as much as you can
 - Write readable & maintainable code
-- Be good at cross-functional work
-- Be an effective communicator
+- Good at cross-functional work
+- An effective communicator
 - Recognize opportunities for improvements & impacts
 - Have a growth mindset
 
-📫 **Reach me at :** mailbox_closed: mhilal.official@gmail.com
+📫 **Reach me at :** mhilal.official@gmail.com
