@@ -18,9 +18,9 @@ Usage of appropriate web frameworks for developing applications better and faste
 
 👀 **The habits are:**
 - Understand the scope and the problem first before coding
-- Document as much as you can
+- Document as much as can
 - Write readable & maintainable code
-- Good at cross-functional work
+- I am good at cross-functional work
 - An effective communicator
 - Recognize opportunities for improvements & impacts
 - Have a growth mindset
